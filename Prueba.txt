@@ -7,3 +7,5 @@ problema de edicion en simultaneo (local)
 
 conflicto de edicion en simultaneo (GitHub)
 
+
+SE UNIERON AMBAS LINEAS EN EL MISMO ARCHIVO.
