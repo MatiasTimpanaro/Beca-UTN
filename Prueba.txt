@@ -2,4 +2,8 @@ prueba
 
 envio a la pc desde GitHub
 
+
 problema de edicion en simultaneo (local)
+
+conflicto de edicion en simultaneo (GitHub)
+
